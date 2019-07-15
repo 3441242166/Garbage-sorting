@@ -1,0 +1,39 @@
+// 20190714183348
+// http://www.mxnzp.com/api/rubbish/type?name=西瓜
+
+{
+  "code": 1,
+  "msg": "数据返回成功",
+  "data": {
+    "aim": {
+      "goodsName": "西瓜",
+      "goodsType": "湿垃圾"
+    },
+    "recommendList": [
+      {
+        "goodsName": "西瓜霜含片塑料铝箔包装",
+        "goodsType": "有害垃圾"
+      },
+      {
+        "goodsName": "西瓜霜含片",
+        "goodsType": "有害垃圾"
+      },
+      {
+        "goodsName": "西瓜皮",
+        "goodsType": "湿垃圾"
+      },
+      {
+        "goodsName": "西瓜籽",
+        "goodsType": "湿垃圾"
+      },
+      {
+        "goodsName": "西瓜子",
+        "goodsType": "湿垃圾"
+      },
+      {
+        "goodsName": "包裹着西瓜籽的纸巾",
+        "goodsType": "干垃圾"
+      }
+    ]
+  }
+}
